@@ -1,2 +1,2 @@
-# multi-byte
+# multiByte
 A multi byte language parse for golang
